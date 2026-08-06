@@ -13,13 +13,10 @@
 
 ---
 
-I build the data infrastructure that machine learning models sit on top of, and I also build the models. Three and a half years at PayPal on the Customer Data Platform and Enterprise Data Infrastructure teams, now finishing an MFE at Stevens with an algorithmic trading specialization. Undergrad was Metallurgy at NIT Trichy, which is a strange path into distributed systems and I am fine with that.
 
-Most of what lives here falls into three buckets: derivatives pricing and market microstructure, streaming data pipelines, and agentic LLM systems.
 
 <div align="center">
 
-### Click any section below to open it
 
 </div>
 
@@ -36,8 +33,7 @@ Most of what lives here falls into three buckets: derivatives pricing and market
 | **Previously** | Software / Data Engineer at PayPal (Customer Data Platform, Enterprise Data Infra) |
 | **Focus areas** | Distributed data systems, LLM and RAG pipelines, execution algorithms, market microstructure |
 | **Languages** | Python, C++, SQL, Java, q/kdb+ |
-| **Reading now** | Papers on volatility regime switching and execution cost modeling |
-| **Ask me about** | Kafka exactly once semantics, Flink state, Snowflake cost tuning, why poker is applied Bayesian inference |
+
 
 </details>
 
