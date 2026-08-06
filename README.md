@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=Data+Engineer+%7C+AI+Engineer+%7C+Quant+Adjacent;800TB+migrated.+200M%2B+profiles+consolidated.;Financial+Engineering+%40+Stevens+%7C+Ex-PayPal;Paranormally+Distributed+%3B%29" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=Data+Engineer+%7C+AI+Engineer+%7C+Quant+ Developer" alt="Typing SVG" />
 
 <br/>
 
