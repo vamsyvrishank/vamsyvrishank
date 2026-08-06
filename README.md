@@ -184,21 +184,6 @@ A client side React and Vite application for practicing system design interviews
 
 </details>
 
-<details>
-<summary><b>QuantJobs Scraper</b> &nbsp;·&nbsp; ~75 firms, config driven</summary>
-
-<br/>
-
-A Python and Flask application that pulls postings from roughly 75 quant and fintech firms. Handles Greenhouse and Lever APIs, plus HTML and JSON scrapers for the firms that roll their own boards. Config driven through a `firms.json` file, with per domain rate limiting and deduplication across sources.
-
-Built it because manually checking 75 career pages is exactly the kind of thing that should not be manual.
-
-`Python` `Flask` `BeautifulSoup` `Playwright` `Rate Limiting`
-
-[**Open repo →**](https://github.com/vamsyvrishank)
-
-</details>
-
 ---
 
 <details>
