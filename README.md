@@ -6,17 +6,7 @@
 
 [![Website](https://img.shields.io/badge/vamsy.org-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://vamsy.org)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vamsyvrishank/)
-[![SSRN](https://img.shields.io/badge/SSRN-Working%20Paper-8B0000?style=for-the-badge)](https://vamsy.org)
 ![Profile Views](https://komarev.com/ghpvc/?username=vamsyvrishank&style=for-the-badge&color=58A6FF)
-
-</div>
-
----
-
-
-
-<div align="center">
-
 
 </div>
 
@@ -33,7 +23,6 @@
 | **Previously** | Software / Data Engineer at PayPal (Customer Data Platform, Enterprise Data Infra) |
 | **Focus areas** | Distributed data systems, LLM and RAG pipelines, execution algorithms, market microstructure |
 | **Languages** | Python, C++, SQL, Java, q/kdb+ |
-
 
 </details>
 
@@ -97,7 +86,7 @@ Includes trinomial trees for barrier options, finite difference schemes (explici
 </details>
 
 <details>
-<summary><b>Adaptive Volatility Regime Based Execution and Risk Framework</b> &nbsp;·&nbsp; published on SSRN</summary>
+<summary><b>Adaptive Volatility Regime Based Execution and Risk Framework</b></summary>
 
 <br/>
 
@@ -260,7 +249,7 @@ Built it because manually checking 75 career pages is exactly the kind of thing 
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vamsyvrishank&theme=tokyonight&hide_border=true" alt="Streak" />
+<img src="https://streak-stats.demolab.com/?user=vamsyvrishank&theme=tokyonight&hide_border=true" alt="Streak" />
 
 <br/><br/>
 
